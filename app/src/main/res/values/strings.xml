@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PoE Craft Simulator</string>
+    <string name="chaosDescription">
+        Сфера хаоса изменяет предмет, наделяя его новыми случайными свойствами,
+        которых будет от 2 до 6, независимо от того какие свойства имел предмет до этого.
+    </string>
+    <string name="alchemyDescription">
+        Сфера превращает обычный предмет в редкий.
+        В результате вы получите редкий предмет со случайным количеством свойств, от 3 до 6.
+    </string>
+    <string name="ScouringDescription">
+        Убирает все свойства у предмета и понижает его редкость до "Обычной"
+    </string>
+    <string name="RegalDescription">
+        Повышает редкость предмета на одну ступень и добавляет одно случайное свойство
+    </string>
+    <string name="exDescription">
+        Наделяет снаряжение дополнительным свойством.
+    </string>
+</resources>
